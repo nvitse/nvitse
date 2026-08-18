@@ -17,7 +17,7 @@ et module sport complet — catalogue d'exercices, programmes et suivi des séan
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 **SentimentLess**  
-Bot de trading avec panneau sur mesure de lecture de portfolio.
+Bot d'analyse pour trading avec panneau sur mesure de lecture de portfolio.
 Approche systématique, sans biais émotionnel — d'où le nom.
 
 ---
