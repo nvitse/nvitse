@@ -9,7 +9,7 @@
 Administrateur systèmes & réseaux — Provence.  
 IT managed services au quotidien, chart enjoyer et bidouille technique le reste du temps.
 
-<div align="center">━━━━━━━━━━━━━━━━━━</div>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## Projets
 
@@ -20,13 +20,13 @@ Cadrage sport et nutrition à deux, pensé pour un foyer aux profils distincts.
 Batch-cooking hebdo, planning partagé, courses qui se génèrent toutes seules,
 et module sport complet — catalogue d'exercices, programmes et suivi des séances.
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+<div align="center">━━━━━━━━━━━━━━━━━━</div>
 
 **SentimentLess**  
 Bot d'analyse pour trading avec panneau sur mesure de lecture de portfolio.
 Approche systématique, sans biais émotionnel — d'où le nom.
 
-<div align="center">━━━━━━━━━━━━━━━━━━</div>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### 📦 Completed
 
@@ -34,6 +34,6 @@ Approche systématique, sans biais émotionnel — d'où le nom.
 Scripts PowerShell maison pour l'administration Windows et le support MSP.
 Automatisation des ops récurrentes du quotidien.
 
-<div align="center">━━━━━━━━━━━━━━━━━━</div>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 *Ces repos sont privés. Je peux les mettre à dispo si besoin.*
