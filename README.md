@@ -1,6 +1,3 @@
-effectivement, il y a une bordure. Virons les
-
-markdown
 <table border="0" style="border: none; border-collapse: collapse;">
 <tr style="border: none;">
 <td style="border: none; padding: 0;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="45"/></td>
