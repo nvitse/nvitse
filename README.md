@@ -8,7 +8,7 @@
 
 Administrateur systèmes & réseaux — Provence.  
 IT managed services au quotidien, chart enjoyer et bidouille technique le reste du temps.
-
+<br>
 ## Projets
 
 ### 🚧 Work in Progress
@@ -31,5 +31,5 @@ Scripts PowerShell maison pour l'administration Windows et le support MSP.
 Automatisation des ops récurrentes du quotidien.
 
 <div align="center">━━━━━━━━━━━━━━━━━━</div>
-
-&nbsp;*Ces repos sont privés. Je peux les mettre à dispo si besoin.*
+<br>
+*Ces repos sont privés. Je peux les mettre à dispo si besoin.*
