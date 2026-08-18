@@ -1,4 +1,4 @@
-# Nicolas
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Waving%20Hand.png" width="35"/> Bienvenue
 
 Administrateur systèmes & réseaux — Provence.  
 IT managed services au quotidien, chart enjoyer et bidouille technique le reste du temps.
