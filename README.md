@@ -12,7 +12,7 @@ IT managed services au quotidien, trading et bidouille technique le reste du tem
 Cadrage sport et nutrition à deux, pensé pour un foyer aux profils distincts.
 Batch-cooking hebdo, planning partagé, courses qui se génèrent toutes seules,
 et module sport complet — catalogue d'exercices, programmes et suivi des séances.
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                                   
 **SentimentLess**  🚧 *Work in Progress* 🚧
 
 Bot de trading avec panneau sur mesure de lecture de portfolio.  
