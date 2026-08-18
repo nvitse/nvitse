@@ -36,4 +36,4 @@ Automatisation des ops récurrentes du quotidien.
 
 ---
 
-*Ces dépôts sont privés. Je peux les mettre à dispo si besoin.*
+*Ces repos sont privés. Je peux les mettre à dispo si besoin.*
