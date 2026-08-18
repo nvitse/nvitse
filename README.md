@@ -20,8 +20,6 @@ Cadrage sport et nutrition à deux, pensé pour un foyer aux profils distincts.
 Batch-cooking hebdo, planning partagé, courses qui se génèrent toutes seules,
 et module sport complet — catalogue d'exercices, programmes et suivi des séances.
 
-<div align="center">· · · · · · · · ·</div>
-
 **SentimentLess**  
 Bot d'analyse pour trading avec panneau sur mesure de lecture de portfolio.
 Approche systématique, sans biais émotionnel — d'où le nom.
