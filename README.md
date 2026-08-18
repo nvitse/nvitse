@@ -1,4 +1,9 @@
-<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" align="center"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F7F7F7&vCenter=true&width=600&height=45&lines=Bienvenue;Welcome;Willkommen;Bienvenido;Benvenuto;%E6%AC%A2%E8%BF%8E;%E3%82%88%E3%81%86%E3%81%93%E3%81%9D;%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4;Welkom;%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C;Bem-vindo" alt="Bienvenue" align="center"/></h1>
+<table>
+<tr>
+<td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="45"/></td>
+<td><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F7F7F7&vCenter=true&width=500&height=50&lines=Bienvenue;Welcome;Willkommen;Bienvenido;Benvenuto;%E6%AC%A2%E8%BF%8E;%E3%82%88%E3%81%86%E3%81%93%E3%81%9D;%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4;Welkom;%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C;Bem-vindo" alt="Bienvenue"/></td>
+</tr>
+</table>
 
 Administrateur systèmes & réseaux — Provence.  
 IT managed services au quotidien, chart enjoyer et bidouille technique le reste du temps.
