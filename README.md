@@ -7,20 +7,24 @@ IT managed services au quotidien, trading et bidouille technique le reste du tem
 
 ## Projets
 
-**BeneFit** 🚧 *Work in Progress* 🚧  
+### 🚧 Work in Progress
+
+**BeneFit**  
 Cadrage sport et nutrition à deux, pensé pour un foyer aux profils distincts.
 Batch-cooking hebdo, planning partagé, courses qui se génèrent toutes seules,
 et module sport complet — catalogue d'exercices, programmes et suivi des séances.
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-**SentimentLess** 🚧 *Work in Progress* 🚧  
+**SentimentLess**  
 Bot de trading avec panneau sur mesure de lecture de portfolio.
 Approche systématique, sans biais émotionnel — d'où le nom.
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+---
 
-**Boîte à outils** 🚧 *Work in Progress* 🚧  
+### 📦 Completed
+
+**Boîte à outils** *(v1.1)*  
 Scripts PowerShell maison pour l'administration Windows et le support MSP.
 Automatisation des ops récurrentes du quotidien.
 
