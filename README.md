@@ -1,7 +1,7 @@
 # Nicolas
 
 Administrateur systèmes & réseaux — Provence.  
-IT managed services au quotidien, trading et bidouille technique le reste du temps.
+IT managed services au quotidien, chart enjoyer et bidouille technique le reste du temps.
 
 ---
 
