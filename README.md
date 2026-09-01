@@ -30,6 +30,11 @@ Approche systématique, sans biais émotionnel — d'où le nom.
 Scripts PowerShell maison pour l'administration Windows et le support MSP.
 Automatisation des ops récurrentes du quotidien.
 
+**On-Screen Keyboard (OSK)**  
+Clavier virtuel flottant pour Firefox en mode kiosk — apparaît au focus d'un champ,
+se déplace au doigt, disparaît au clic ailleurs.
+Deux variantes de disposition : AZERTY et QWERTY.
+
 <div align="center">━━━━━━━━━━━━━━━━━━</div>
 <br>
 *Ces repos sont privés. Je peux les mettre à dispo si besoin.*
