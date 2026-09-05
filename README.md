@@ -6,7 +6,7 @@
   </picture>
 </p>
 
-Administrateur systèmes & réseaux — Provence.  
+Administrateur systèmes & réseaux, Provence.  
 IT managed services au quotidien, chart enjoyer et bidouille technique le reste du temps.
 <br>
 ## Projets
@@ -20,7 +20,7 @@ et module sport complet — catalogue d'exercices, programmes et suivi des séan
 
 **SentimentLess**  
 Bot d'analyse pour trading avec panneau sur mesure de lecture de portfolio.
-Approche systématique, sans biais émotionnel — d'où le nom.
+Approche systématique, sans biais émotionnel (d'où le nom).
 
 <div align="center">━━━━━━━━━━━━━━━━━━</div>
 
