@@ -9,7 +9,9 @@
 Administrateur systèmes & réseaux.  
 📍 Provence.  
 IT managed services au quotidien, chart enjoyer et bidouille technique le reste du temps.
+
 <br>
+
 ## Projets
 
 ### 🚧 Work in Progress
@@ -37,5 +39,7 @@ se déplace au doigt, disparaît au clic ailleurs.
 Deux variantes de disposition : AZERTY et QWERTY.
 
 <div align="center">━━━━━━━━━━━━━━━━━━</div>
+
 <br>
+
 *Ces repos sont privés. Je peux les mettre à dispo si besoin.*
