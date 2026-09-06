@@ -7,7 +7,6 @@
 </p>
 
 Administrateur systèmes & réseaux.  
-📍 Provence.  
 IT managed services au quotidien, chart enjoyer et bidouille technique le reste du temps.
 
 <br>
