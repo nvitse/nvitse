@@ -18,6 +18,7 @@ IT managed services au quotidien, chart enjoyer et bidouille technique le reste 
 **Linux_Framework**
 Socle serveur reproductible : pré-installation de paquets, gestion des droits,
 durcissement et logging, industrialisés en rôles Ansible.
+<br>
 Déploiement cible sur une infrastructure vSphere montée en labo : ESXi nested,
 vCenter, puis chaîne Packer / Terraform / Ansible.
 Documentation et code versionnés ensemble, décisions d'architecture incluses.
