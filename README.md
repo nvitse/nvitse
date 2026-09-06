@@ -15,6 +15,13 @@ IT managed services au quotidien, chart enjoyer et bidouille technique le reste 
 
 ### 🚧 Work in Progress
 
+**Linux_Framework**
+Socle serveur reproductible : pré-installation de paquets, gestion des droits,
+durcissement et logging, industrialisés en rôles Ansible.
+Déploiement cible sur une infrastructure vSphere montée en labo : ESXi nested,
+vCenter, puis chaîne Packer / Terraform / Ansible.
+Documentation et code versionnés ensemble, décisions d'architecture incluses.
+
 **BeneFit**  
 Cadrage sport et nutrition à deux, pensé pour un foyer aux profils distincts.
 Batch-cooking hebdo, planning partagé, courses qui se génèrent toutes seules,
