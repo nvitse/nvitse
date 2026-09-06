@@ -19,7 +19,7 @@ IT managed services au quotidien, chart enjoyer et bidouille technique le reste 
 **BeneFit**  
 Cadrage sport et nutrition à deux, pensé pour un foyer aux profils distincts.
 Batch-cooking hebdo, planning partagé, courses qui se génèrent toutes seules,
-et module sport complet — catalogue d'exercices, programmes et suivi des séances.
+et module sport complet : catalogue d'exercices, programmes et suivi des séances.
 
 **SentimentLess**  
 Bot d'analyse pour trading avec panneau sur mesure de lecture de portfolio.
@@ -34,7 +34,7 @@ Scripts PowerShell maison pour l'administration Windows et le support MSP.
 Automatisation des ops récurrentes du quotidien.
 
 **On-Screen Keyboard (OSK)**  
-Clavier virtuel flottant pour Firefox en mode kiosk — apparaît au focus d'un champ,
+Clavier virtuel flottant pour Firefox en mode kiosk : apparaît au focus d'un champ,
 se déplace au doigt, disparaît au clic ailleurs.
 Deux variantes de disposition : AZERTY et QWERTY.
 
