@@ -15,7 +15,7 @@ IT managed services au quotidien, chart enjoyer et bidouille technique le reste 
 
 ### 🚧 Work in Progress
 
-**Linux_Framework**
+**Linux_Framework** <br>
 Socle serveur reproductible : pré-installation de paquets, gestion des droits,
 durcissement et logging, industrialisés en rôles Ansible.
 <br>
