@@ -7,9 +7,7 @@
 </p>
 
 Administrateur systèmes & réseaux au quotidien, chart enjoyer et bidouille technique le reste du temps.
-
 <br>
-
 ## Projets
 
 ### 🚧 Work in Progress
