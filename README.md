@@ -6,8 +6,7 @@
   </picture>
 </p>
 
-Administrateur systèmes & réseaux.  
-IT managed services au quotidien, chart enjoyer et bidouille technique le reste du temps.
+Administrateur systèmes & réseaux au quotidien, chart enjoyer et bidouille technique le reste du temps.
 
 <br>
 
