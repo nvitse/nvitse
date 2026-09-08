@@ -6,7 +6,7 @@
   </picture>
 </p>
 
-Administrateur systèmes & réseaux au quotidien, chart enjoyer et bidouille technique le reste du temps.
+Administrateur systèmes & réseaux au quotidien, grimpeur, chart enjoyer et bidouille le reste du temps.
 <br>
 ## Projets
 
