@@ -6,11 +6,17 @@
   </picture>
 </p>
 
-Administrateur systèmes & réseaux au quotidien, grimpeur, chart enjoyer et bidouille le reste du temps.
-<br>
 ## Projets
 
 ### 🚧 Work in Progress
+
+**Roccapina** <br>
+Serveur auto-hébergé sur un VPS Debian : services Docker derrière Caddy et Authentik,
+administration via Tailscale, sauvegardes chiffrées avec restic.
+
+- **Coaching** : site d'entraînement sportif, une page par personne avec programme,
+  suivi des séances et du poids.
+- **Vault** : gestionnaire de mots de passe (Vaultwarden).
 
 **Linux_Framework** <br>
 Socle serveur reproductible : pré-installation de paquets, gestion des droits,
@@ -19,15 +25,6 @@ durcissement et logging, industrialisés en rôles Ansible.
 Déploiement cible sur une infrastructure vSphere montée en labo : ESXi nested,
 vCenter, puis chaîne Packer / Terraform / Ansible.
 Documentation et code versionnés ensemble, décisions d'architecture incluses.
-
-**BeneFit**  
-Cadrage sport et nutrition à deux, pensé pour un foyer aux profils distincts.
-Batch-cooking hebdo, planning partagé, courses qui se génèrent toutes seules,
-et module sport complet : catalogue d'exercices, programmes et suivi des séances.
-
-**SentimentLess**  
-Bot d'analyse pour trading avec panneau sur mesure de lecture de portfolio.
-Approche systématique, sans biais émotionnel (d'où le nom).
 
 <div align="center">━━━━━━━━━━━━━━━━━━</div>
 
