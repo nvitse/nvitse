@@ -18,6 +18,8 @@ administration via Tailscale, sauvegardes chiffrées avec restic.
   suivi des séances et du poids.
 - **Vault** : gestionnaire de mots de passe (Vaultwarden).
 
+<br>
+
 **MT5_Dashboard** <br>
 Dashboard web local branché sur un terminal MT5 : serveur Python / FastAPI,
 interface en JS, modules MQL5 homemade.
@@ -27,6 +29,8 @@ interface en JS, modules MQL5 homemade.
 - **Contexte** : calendrier macro, flux RSS policymakers, regime filter cross-asset.
 - **Journal** : historique reconstitué depuis le terminal, statistiques
   et revue human-in-the-loop.
+
+<br>
 
 **Linux_Framework** <br>
 Socle serveur reproductible : pré-installation de paquets, gestion des droits,
@@ -43,6 +47,8 @@ Documentation et code versionnés ensemble, décisions d'architecture incluses.
 **Boîte à outils** *(v1.1)*  
 Scripts PowerShell maison pour l'administration Windows et le support MSP.
 Automatisation des ops récurrentes du quotidien.
+
+<br>
 
 **On-Screen Keyboard (OSK)**  
 Clavier virtuel flottant pour Firefox en mode kiosk : apparaît au focus d'un champ,
