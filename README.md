@@ -18,6 +18,16 @@ administration via Tailscale, sauvegardes chiffrées avec restic.
   suivi des séances et du poids.
 - **Vault** : gestionnaire de mots de passe (Vaultwarden).
 
+**MT5_Dashboard** <br>
+Dashboard web local branché sur un terminal MT5 : serveur Python / FastAPI,
+interface en JS, modules MQL5 homemade.
+
+- **Desk** : graphiques avec VWAP, FVG, SMI et liquidité, sizing en R
+  avec garde-fous sur le drawdown journalier.
+- **Contexte** : calendrier macro, flux RSS policymakers, regime filter cross-asset.
+- **Journal** : historique reconstitué depuis le terminal, statistiques
+  et revue human-in-the-loop.
+
 **Linux_Framework** <br>
 Socle serveur reproductible : pré-installation de paquets, gestion des droits,
 durcissement et logging, industrialisés en rôles Ansible.
